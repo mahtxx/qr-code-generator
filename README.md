@@ -1,8 +1,10 @@
 # QR Code Generator
 
+**[Live Demo →](https://mahtxx.github.io/qr-code-generator/)**
+
 A clean, dark-themed QR code generator that turns any URL or text into a downloadable QR code. Supports color customization, size control, and four error correction levels.
 
-![QR Code Generator](https://img.shields.io/badge/HTML-CSS-JS-purple?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+![QR Code Generator](https://img.shields.io/badge/HTML-CSS-JS-purple?style=flat-square) ![Live](https://img.shields.io/badge/Live-GitHub%20Pages-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 
 ---
 
